@@ -1,2 +1,2 @@
-# ProjetoPDSI
-Trabalho da Materia
+# TrabalhoPDSI
+Trabalho para a Disciplina
